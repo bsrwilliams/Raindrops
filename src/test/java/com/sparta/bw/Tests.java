@@ -39,7 +39,7 @@ public class Tests {
     @Test
     @DisplayName("Test a negative factor of 7")
     public void negativeFactorOf7() {
-        Assertions.assertEquals("Plong", FactorCalculator.plingPlangPlong(-24));
+        Assertions.assertEquals("Plong", FactorCalculator.plingPlangPlong(-28));
     }
 
     @Test
