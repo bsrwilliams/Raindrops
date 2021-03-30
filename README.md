@@ -1,6 +1,6 @@
 # Raindrops
 
-Write a function that takes as its input a number (n) and converts it to a string, the contents of which depend on the numbers factors
+A function that takes as its input a number (n) and converts it to a string, the contents of which depend on the numbers factors
 
 - if the number has a factor of 3, output 'Pling'
 - if the number has a factor of 5, output 'Plang'
