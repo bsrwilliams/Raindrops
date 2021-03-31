@@ -1,6 +1,15 @@
 package com.sparta.bw;
 
 public class FactorCalculator {
+    /*
+     * This method takes a number as a parameter and
+     * returns a String containing either Pling,
+     * Plang or Plong depending if the number is
+     * a factor of 3, 5 or 7 respectively.
+     *
+     * @param n The number to be evaluated
+     * @return result The resulting string
+     */
     public static String plingPlangPlong(int n) {
         String result = "";
         // If the number is a factor of 3
